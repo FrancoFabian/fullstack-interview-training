@@ -1,17 +1,18 @@
-# Week 01 — Baseline y recuperación de fundamentos
+# Week 01 — Baseline real
 
-Semana: 12–15 de agosto de 2026 para el arranque parcial; la progresión continúa la semana siguiente.
+Semana real de inicio: **19–25 de agosto de 2026**.
 
-El objetivo de esta primera fase es obtener un **baseline real** antes de subir dificultad.
+Todo lo anterior al 19 de agosto fue preparación del sistema y no cuenta como sesión realizada.
 
-## Sesiones
+## Secuencia
 
-- Miércoles 12 — Spring Boot: diagnosticar una API pequeña y recuperar IoC/DI, MVC y manejo HTTP.
-- Jueves 13 — React avanzado: Effects, fetch y razonamiento sobre asincronía.
-- Viernes 14 — Spring Security: flujo de autenticación/autorización y 401 vs 403.
-- Sábado 15 — Simulación: debugging y explicación oral.
-- Lunes 17 — Java: referencias, equals/hashCode y Collections.
-- Martes 18 — React/TypeScript: Goncy baseline.
+- Miércoles 19 — Java: fundamentos, referencias, `equals/hashCode`, Collections.
+- Jueves 20 — React + TypeScript: baseline práctico con challenge pequeño.
+- Viernes 21 — Spring Boot: IoC/DI, MVC, API y errores HTTP.
+- Sábado 22 — React avanzado: Effects, async y race conditions.
+- Domingo 23 — descanso.
+- Lunes 24 — Spring Security: Authentication vs Authorization, 401/403 y `SecurityFilterChain`.
+- Martes 25 — simulación Full-Stack.
 
 ## Regla de baseline
 
@@ -27,4 +28,4 @@ Durante cada challenge registrar:
 6. explicación oral;
 7. nivel máximo de ayuda IA.
 
-No buscamos puntuaciones altas esta semana. Buscamos identificar con precisión qué conceptos están sólidos y cuáles solamente parecen familiares.
+Esta semana no busca puntuaciones altas; busca medir desde dónde partes realmente.
