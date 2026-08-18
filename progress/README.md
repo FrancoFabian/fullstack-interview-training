@@ -2,6 +2,8 @@
 
 Este archivo registra progreso **observable**. ChatGPT puede actualizarlo después de revisar commits, PRs, tests y explicaciones.
 
+**Inicio real del entrenamiento: 19 de agosto de 2026.** No existe progreso previo contabilizado.
+
 ## Escala por sesión
 
 Cada categoría vale 0–2:
@@ -22,17 +24,7 @@ La puntuación es una métrica interna de entrenamiento, no una equivalencia con
 
 | Fecha | Track | Challenge | Score /10 | IA máx. | Tiempo | Repetir | Observación |
 |---|---|---|---:|---:|---:|---|---|
-| 2026-08-12 | Spring Boot | Baseline inicial | — | — | 75m | — | Pendiente |
-
-## Tendencias que vamos a medir
-
-- score promedio por track;
-- nivel de ayuda IA promedio;
-- tiempo hasta solución funcional;
-- errores conceptuales repetidos;
-- porcentaje de challenges repetidos sin ayuda;
-- capacidad de explicación oral;
-- cobertura de tests y calidad de edge cases.
+| 2026-08-19 | Java | Baseline inicial | — | — | 75m | — | Pendiente |
 
 ## Estado por track
 
@@ -53,4 +45,4 @@ Pendiente de baseline.
 
 ## Regla de actualización
 
-Después de cada sesión, conservar evidencia del resultado y actualizar este archivo únicamente con observaciones que puedan justificarse mediante código, tests, respuestas del usuario o repetición posterior.
+Después de cada sesión, conservar evidencia del resultado y actualizar este archivo únicamente con observaciones justificables mediante código, tests, respuestas del usuario o repetición posterior.
