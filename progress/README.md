@@ -8,7 +8,7 @@ Este archivo registra progreso **observable**. ChatGPT puede actualizarlo despu�
 
 Cada categoría vale 0–2:
 
-| Categororía | 0 | 1 | 2 |
+| Categoría | 0 | 1 | 2 |
 |---|---|---|---|
 | Comprensión | No identifica el problema | Parcial | Comprende requisitos y riesgos |
 | Correctness | Falla casos principales | Funciona con huecos | Correcto + edge cases |
