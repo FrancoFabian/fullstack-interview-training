@@ -14,17 +14,21 @@ Recuperar autonomía técnica y demostrar progreso con evidencia real en GitHub.
 
 La IA no resuelve primero. Se usa como escalera de ayuda y como reviewer después del intento.
 
-## Horario desde el 19 de agosto
+## Horario vigente desde el 22 de agosto
+
+Por falta de tiempo el Día 2 y el bloque del 21 de agosto se recorrieron sin marcarlos como completados.
 
 | Día | 09:30–10:00 | 11:00–12:15 |
 |---|---|---|
-| Miércoles | Inglés profesional | Java |
-| Jueves | Inglés profesional | React + TypeScript |
-| Viernes | Inglés profesional | Spring Boot |
-| Sábado | Inglés profesional | React avanzado |
+| Sábado | Inglés profesional | React + TypeScript |
 | Domingo | Descanso | Descanso |
-| Lunes | Inglés profesional | Spring Security |
-| Martes | Inglés profesional | Simulación de entrevista |
+| Lunes | Inglés profesional | Spring Boot |
+| Martes | Inglés profesional | React avanzado |
+| Miércoles | Inglés profesional | Spring Security |
+| Jueves | Inglés profesional | Simulación de entrevista |
+| Viernes | Inglés profesional | Java |
+
+El orden puede recorrerse nuevamente si una sesión no se realiza. Una sesión perdida **no cuenta como progreso** y no se saltará el contenido pendiente.
 
 ## Estructura
 
